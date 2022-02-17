@@ -1,0 +1,25 @@
+{
+  "R": {
+    "Version": "4.1.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Python": {
+    "Version": "3.8.9",
+    "Type": "virtualenv",
+    "Name": "/Users/jankothyson/Code/trendence/r-krypton/renv/python/virtualenvs/renv-python-3.8.9"
+  },
+  "Packages": {
+    "renv": {
+      "Package": "renv",
+      "Version": "0.12.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5510c50c7f31d453c385c7b460af2b9"
+    }
+  }
+}
